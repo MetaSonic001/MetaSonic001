@@ -32,11 +32,8 @@ I'm on the lookout for guidance and mentorship in AI/ML. If you have expertise i
 
 He/Him
 
-## 🌟 Achievements and Contributions
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Second-Year Computer Science Engineering Student**: Building a strong foundation in computer science principles and engineering practices.
-- **Open Source Contributions**: Actively contributing to open-source projects, and sharing my knowledge with the community.
-- **Continuous Learner**: Enthusiastic about learning new technologies and improving my skillset.
 
 ## 📣 Let's Connect!
 
