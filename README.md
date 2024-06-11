@@ -32,7 +32,7 @@ I'm on the lookout for guidance and mentorship in AI/ML. If you have expertise i
 
 He/Him
 
-[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats)
+<--[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## 📣 Let's Connect!
