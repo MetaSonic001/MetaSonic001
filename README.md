@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Shaun Mendes
+<!--# Hi there! 👋 I'm Shaun Mendes-->
 
-/header.png
+![Header Image](./header.png)
 
 [![Email](https://img.shields.io/badge/Email-shaunkmmendes%40gmail.com-red)](mailto:shaunkmmendes@gmail.com)
 
