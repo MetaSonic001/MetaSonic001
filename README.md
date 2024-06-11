@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Shaun Mendes
 
 [![Email](https://img.shields.io/badge/Email-shaunkmmendes%40gmail.com-red)](mailto:shaunkmmendes@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/shaunmendes?style=social)
+
 
 I'm a passionate second-year Computer Science Engineering student at [Fr. Conceicao Rodrigues College of Engineering](https://www.frcrce.ac.in/), Bandra, Mumbai. Welcome to my GitHub! 🚀
 
@@ -37,17 +37,6 @@ He/Him
 - **Second-Year Computer Science Engineering Student**: Building a strong foundation in computer science principles and engineering practices.
 - **Open Source Contributions**: Actively contributing to open-source projects, and sharing my knowledge with the community.
 - **Continuous Learner**: Enthusiastic about learning new technologies and improving my skillset.
-
-
-## 🛠️ Technologies & Tools
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 📣 Let's Connect!
 
