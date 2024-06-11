@@ -33,8 +33,8 @@ I'm on the lookout for guidance and mentorship in AI/ML. If you have expertise i
 He/Him
 
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MetaSonic001)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaSonic001)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MetaSonic001)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 📣 Let's Connect!
 
