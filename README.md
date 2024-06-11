@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Shaun Mendes
 
+/header.png
+
 [![Email](https://img.shields.io/badge/Email-shaunkmmendes%40gmail.com-red)](mailto:shaunkmmendes@gmail.com)
 
 
